@@ -7,4 +7,4 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/xXHachimanXx/Product-Catalog.git
+          uri: https://github.com/xXHachimanXx/dio-experts-config.git
